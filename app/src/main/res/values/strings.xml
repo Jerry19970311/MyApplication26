@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application26</string>
+    <string name="button_start">Start Service</string>
+    <string name="button_stop">Stop Service</string>
+    <string name="button_use">Use Service</string>
+    <string name="button_test">Handle</string>
+</resources>
